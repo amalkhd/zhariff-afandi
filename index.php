@@ -38,11 +38,11 @@
 
                     <!-- Controls -->
                     <a class="left carousel-control" href="#home-carousel" role="button" data-slide="prev">
-                        <span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span>
+                        <span class="icon-left-arrow" aria-hidden="true"></span>
                         <span class="sr-only">Previous</span>
                     </a>
                     <a class="right carousel-control" href="#home-carousel" role="button" data-slide="next">
-                        <span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span>
+                        <span class="icon-right-arrow" aria-hidden="true"></span>
                         <span class="sr-only">Next</span>
                     </a>
                 </div>
@@ -172,7 +172,6 @@
                         <p class="text-grey text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque praesentium aut voluptates optio,
                             vero quo veritatis nobis voluptas veniam rerum exercitationem quisquam? Quas consectetur beatae
                             perspiciatis numquam!</p>
-
                     </div>
                 </div>
             </div>

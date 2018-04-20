@@ -6,32 +6,32 @@
                     <ul class="list-inline ">
                         <li>
                             <a href="">
-                                <i class="glyphicon glyphicon-flash"></i>
+                                <i class="icon-fb"></i>
                             </a>
                         </li>
                         <li>
                             <a href="">
-                                <i class="glyphicon glyphicon-flash"></i>
+                                <i class="icon-twitter"></i>
                             </a>
                         </li>
                         <li>
                             <a href="">
-                                <i class="glyphicon glyphicon-flash"></i>
+                                <i class="icon-dribble"></i>
                             </a>
                         </li>
                         <li>
                             <a href="">
-                                <i class="glyphicon glyphicon-flash"></i>
+                                <i class="icon-behance"></i>
                             </a>
                         </li>
                         <li>
                             <a href="">
-                                <i class="glyphicon glyphicon-flash"></i>
+                                <i class="icon-pinterest"></i>
                             </a>
                         </li>
                         <li>
                             <a href="">
-                                <i class="glyphicon glyphicon-flash"></i>
+                                <i class="icon-plus"></i>
                             </a>
                         </li>
                     </ul>
@@ -39,7 +39,7 @@
                     <div class="mt-40 mb-40">
                         <img src=img/murfest-logo.png alt="" class="img-responsive">
                     </div>
-                    <p class="white text-center">www.murfest.com</p>
+                    <p class="white text-center mb-0">www.murfest.com</p>
 
                 </div>
 

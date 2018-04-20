@@ -1,16 +1,23 @@
 // main: ../page.less
 footer {
   background-color: lighten(@black, 20%);
+  padding: 40px 0;
   .share {
     margin: 0 auto;
     width: fit-content;
     ul {
-      padding: 40px 0;
-      margin-bottom: 0;
+      margin-bottom: 40px;
       li {
         padding: 0 20px;
         a {
           .white;
+          text-decoration: none;
+          i {
+            font-size: 24px;
+            &.icon-behance {
+              font-size: 26px;
+            }
+          }
         }
       }
     }

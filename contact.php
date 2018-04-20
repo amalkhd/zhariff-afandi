@@ -30,7 +30,7 @@
                                     <table class="table">
                                         <tr>
                                             <td>
-                                                <i class="glyphicon glyphicon-alert"></i>
+                                                <i class="icon-call"></i>
                                             </td>
                                             <td>
                                                 +987 987 654 3210
@@ -38,7 +38,7 @@
                                         </tr>
                                         <tr>
                                             <td>
-                                                <i class="glyphicon glyphicon-alert"></i>
+                                                <i class="icon-message"></i>
                                             </td>
                                             <td>
                                                 support@zhariffafandi.com
@@ -46,7 +46,7 @@
                                         </tr>
                                         <tr>
                                             <td>
-                                                <i class="glyphicon glyphicon-alert"></i>
+                                                <i class="icon-fb-border"></i>
                                             </td>
                                             <td>
                                                 fb/zhariffafandi
@@ -54,7 +54,7 @@
                                         </tr>
                                         <tr>
                                             <td>
-                                                <i class="glyphicon glyphicon-alert"></i>
+                                                <i class="icon-twitter-border"></i>
                                             </td>
                                             <td>
                                                 @zhariffafandi

@@ -33,7 +33,7 @@
         z-index: 5;
         display: inline-block;
         font-size: 30px;
-        right: 0;
+        right: 50%;
       }
     }
     &.left {
@@ -43,7 +43,7 @@
         z-index: 5;
         display: inline-block;
         font-size: 30px;
-        left: 0;
+        left: 50%;
       }
     }
   }
@@ -101,11 +101,23 @@
 .test-wrap {
   background-color: lighten(@black, 90%);
   .testimonial {
+    .slick-next,
+    .slick-prev {
+      top: 25%;
+    }
     .slick-next {
       right: -20px;
+      &:before {
+        content: "\64";
+        .text-grey;
+      }
     }
     .slick-prev {
       left: -20px;
+      &:before {
+        content: "\68";
+        .text-grey;
+      }
     }
     &:hover {
       cursor: -webkit-grab;

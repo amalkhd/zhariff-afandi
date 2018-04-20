@@ -5,6 +5,8 @@ $(document).ready(function() {
     slidesToShow: 3,
     slidesToScroll: 1,
     infinite: true,
+    prevArrow: '<button class="icon-left-arrow slick-prev"></button>',
+    nextArrow: '<button class="icon-right-arrow slick-next"></button>',
     responsive: [
       {
         breakpoint: 991,
