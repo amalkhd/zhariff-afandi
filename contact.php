@@ -67,8 +67,28 @@
 
                     </div>
                     <div class="col-sm-6">
-                        <h4 class="bold">Send Me a Message</h4>
-
+                        <div class="row">
+                            <div class="col-sm-10">
+                                <h4 class="bold">Send Me a Message</h4>
+                                <form class="con-form">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" placeholder="Name">
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" placeholder="Email">
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" placeholder="Phone">
+                                    </div>
+                                    <div class="form-group">
+                                        <textarea class="form-control" rows="4" placeholder="Message"></textarea>
+                                    </div>
+                                    <div class="col-xs-12 text-right">
+                                        <button class="btn-default btn">Send</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

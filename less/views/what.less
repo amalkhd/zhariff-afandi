@@ -46,3 +46,33 @@
     }
   }
 }
+
+.con-form {
+  .form-group {
+    margin-bottom: 40px;
+    .form-control {
+      border: none;
+      border-radius: 0;
+      box-shadow: none;
+      border-bottom: 1px solid lighten(@black, 80%);
+      padding: 10px 0;
+      // height: auto;
+      &:focus {
+        border-bottom: 1px solid lighten(@black, 50%);
+      }
+    }
+    textarea {
+      resize: none;
+    }
+  }
+  .btn {
+    .text-grey;
+    border-radius: 0;
+    padding: 6px 40px;
+    border-color: #ccc;
+    &:hover {
+      .text-grey;
+      background-color: @white;
+    }
+  }
+}
