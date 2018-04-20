@@ -1,0 +1,19 @@
+{
+  "name": "bc-ui-template",
+  "version": "1.0.0",
+  "description": "UI template project for Bravocode Team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammed Riaz <riyasekmvr@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "3.3.4",
+    "jquery": "~2.1.4",
+    "imagesloaded": "^4.1.1"
+  },
+  "dependencies": {
+    "slick-carousel": "^1.8.1"
+  }
+}

@@ -1,0 +1,29 @@
+// main: ../page.less
+
+#header {
+  height: 70px;
+  background-color: @white;
+  .navbar-brand {
+    @media (max-width: 767px) {
+      width: 200px;
+      padding-top: 22px;
+    }
+  }
+  .navbar-content {
+    li {
+      a {
+        padding: 25px 15px;
+        color: @black;
+        font-size: 16px;
+        &:hover {
+          background-color: transparent;
+        }
+      }
+      &.active {
+        a {
+          .bold;
+        }
+      }
+    }
+  }
+}

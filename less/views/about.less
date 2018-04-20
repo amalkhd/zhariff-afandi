@@ -1,0 +1,63 @@
+// main: ../page.less
+.banner {
+  height: 396px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  .overlay {
+    background-color: fade(@black, 40%);
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+  }
+  .banner-wrap {
+    margin-top: 150px;
+    h1 {
+      font-size: 40px;
+      letter-spacing: 1px;
+      font-weight: 600;
+    }
+    p {
+      font-size: 16px;
+      letter-spacing: 1px;
+    }
+  }
+}
+
+.abt-banner {
+  .banner;
+  background-image: url("../img/about/banner.png");
+}
+
+.abt-quote {
+  .quote {
+    padding: 20px;
+    border: 1px solid @text-color;
+    h3 {
+      font-weight: 600;
+    }
+  }
+  margin-bottom: 80px;
+}
+
+.media-wrap {
+  .mt-40;
+  a {
+    .text-grey;
+    &:hover {
+      .text-grey;
+    }
+  }
+  table.table {
+    tr {
+      td {
+        border: none;
+        &:first-child {
+          padding-left: 0;
+        }
+      }
+    }
+  }
+}
