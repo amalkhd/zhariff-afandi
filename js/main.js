@@ -35,7 +35,7 @@ $(document).ready(function() {
         settings: {
           arrows: true,
           centerMode: true,
-          centerPadding: "40px",
+          centerPadding: "20px",
           slidesToShow: 1
         }
       }
