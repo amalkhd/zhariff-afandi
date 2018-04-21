@@ -36,7 +36,7 @@
                         </li>
                     </ul>
                     <p class="white text-center">Supported by Murfest</p>
-                    <div class="mt-40 mb-40">
+                    <div class="mt-20 mb-20">
                         <img src=img/murfest-logo.png alt="" class="img-responsive">
                     </div>
                     <p class="white text-center mb-0">www.murfest.com</p>
