@@ -31,7 +31,7 @@
     <nav id="header" class="navbar navbar-fixed-top header" role="navigation">
       <div class="container">
         <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed navbar-mobile" data-toggle="collapse" data-target="#mobile-view" aria-expanded="false">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mobile-view" aria-expanded="false">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -44,7 +44,7 @@
         <div class="collapse navbar-collapse navbar-right" id="mobile-view">
           <ul class=" nav navbar-nav navbar-content">
             <li class="active">
-              <a href="home.php">Home</a>
+              <a href="index.php">Home</a>
             </li>
             <li class="">
               <a href="about.php">About</a>
