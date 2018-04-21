@@ -39,9 +39,9 @@
         <div class="row">
             <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
                 <div class="quote text-grey text-center">
-                    <h3 class="upper">
+                    <h2 class="upper bebas ls-2">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, fuga.
-                    </h3>
+                    </h2>
                     <p>Zhariff Afandi</p>
                 </div>
             </div>
@@ -55,7 +55,7 @@
 
         <div class="row">
             <div class="col-xs-12">
-                <h3 class="bold mb-40 mt-40">
+                <h3 class="bold mb-40 mt-40 bebas ls-2">
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit
                 </h3>
                 <iframe width="100%" height="500" src="https://www.youtube.com/embed/mcixldqDIEQ?rel=0" frameborder="0" allow="autoplay; encrypted-media"
