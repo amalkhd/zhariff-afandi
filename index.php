@@ -89,14 +89,24 @@
 
                         </div>
                         <div class="col-sm-7">
-                            <section class="ptb-80">
-                                <h3 class="text-grey bold upper mt-0 lh">
+                            <section class="ptb-80 text-grey">
+                                <h3 class=" bold upper mt-0 lh">
                                     zhariff afandi
                                 </h3>
-                                <p class="upper text-grey mb-40">about</p>
-                                <h4 class="mt-0 lh text-grey mb-40">
+                                <p class="upper  mb-40">about</p>
+                                <h4 class="mt-0 lh">
                                     Zhariff Afandi is a life coach, public speaker and renowned motivator with a strong background in developmental psychology
                                     and an extensive work in personal and team development.
+                                </h4>
+                                <h4 class="lh">
+                                    He has been intensively involved in the last 10 years with many CSR, humanitarian relief locally and in the international
+                                    scene, and put together numerous community, corporate and entrepreneurship development
+                                    programs. Zhariff was also a Group CMO and CEO of some amazing agencies and companies
+                                    in Malaysia, but could not resist destiny’s call towards his true passion.
+                                </h4>
+                                <h4 class="lh mb-40">
+                                    He dares to live life at its fullest, and believes that it is in fact his true calling to share his knowledge and wisdom
+                                    to the world.
                                 </h4>
                                 <a class="link-black" href="about.php">Read more</a>
                             </section>
