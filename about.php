@@ -172,6 +172,23 @@
                         </table>
                     </div>
                 </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="media-wrap">
+                        <iframe frameborder="0" width="100%" src="//www.dailymotion.com/embed/video/x31zirg" allowfullscreen="" allow="autoplay"></iframe>
+                        <table class="table">
+                            <tr>
+                                <!-- <td class="one">
+                                                                                                        <img src="img/about/cnn.png" alt="" class="img-responsive">
+                                                                                                    </td> -->
+                                <td class="text-grey one">
+                                    <h4 class="bold">
+                                        Interview Zhariff Afandi Lite.FM
+                                    </h4>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
             </section>
 
         </div>

@@ -55,7 +55,7 @@
         <div class="row ls-1">
             <div class="col-sm-4">
                 <h2 class="text-grey bold upper mt-0 lh">
-                    We all want to be the best that we can be
+                    presentation
                 </h2>
                 <p class="upper text-grey">Come on…. Don’t be afraid. Zhariff is here to help.</p>
             </div>
@@ -63,10 +63,12 @@
 
             </div>
             <div class="col-sm-7">
-                <h4 class="mt-0 lh text-grey">As a son, a daughter, a father, a mother, a boss or an employee, we all have the potential to be the very
-                    best that we can be. No matter what you are, or where you came from. However as life generally is, sometimes
-                    things don’t go our way. Things can go wrong and fail. But that of course isn’t the end of it. We can
-                    strive. We can be the amazing person inside.</h4>
+                <h4 class="mt-0 lh text-grey">
+
+                    We all want to be the best that we can be.As a son, a daughter, a father, a mother, a boss or an employee, we all have the
+                    potential to be the very best that we can be. No matter what you are, or where you came from. However
+                    as life generally is, sometimes things don’t go our way. Things can go wrong and fail. But that of course
+                    isn’t the end of it. We can strive. We can be the amazing person inside.</h4>
                 <h4 class="mt-0 lh text-grey">We can live an awesome and truly happy life. How? Its not magic nor myth. Just having the right understanding
                     of the self, the right tools to cope, and the clarity of thought to pursue.</h4>
             </div>
@@ -184,7 +186,8 @@
                         <p class="text-grey bold">Siti Malina Binti Kaza</p>
                         <p> Education Centre</p>
                         <p class="text-grey text-center">
-                            “We got Zhariff as keynote at MDRT conference… and he was just brilliant.”
+                            Life Training Unit, The Malaysian Insurance Institute (MII) “We got Zhariff as keynote at MDRT conference… and he was just
+                            brilliant.”
                         </p>
                     </div>
                     <div class="item">
@@ -245,6 +248,15 @@
                         <img src="img/home/client-4.png" alt="">
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="mtb-80">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 text-center">
+                <h1 class="upper bold text-grey ls-1 mb-40">upcoming event</h1>
             </div>
         </div>
     </div>
