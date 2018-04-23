@@ -33,7 +33,7 @@ DISCOVER: The modules developed in Zhariff’s programs is a culmination of his 
             </div>
             <div class="col-sm-6">
                 <div class="what-wrap text-grey">
-                    <img src="img/what/what-1.png" alt="" class="img-responsive">
+                    <img src="img/home/speak-1.png" alt="" class="img-responsive">
                     <div class="content ls-1">
                         <p class="bold">Speaking engagement</p>
                         <p class="mb-20">
@@ -45,7 +45,7 @@ DISCOVER: The modules developed in Zhariff’s programs is a culmination of his 
             </div>
             <div class="col-sm-6">
                 <div class="what-wrap text-grey">
-                    <img src="img/what/what-2.png" alt="" class="img-responsive">
+                    <img src="img/home/speak-2.png" alt="" class="img-responsive">
                     <div class="content ls-1">
                         <p class="bold">Corporate retreats</p>
                         <p class="mb-20">
