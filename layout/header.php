@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
   <meta name="description" content="">
   <meta name="Keywords" content="">
-  <title>Zhariff-Awandi</title>
+  <title>Zhariff-Afandi</title>
   <!-- Firefox, Chrome, Safari, IE 11+ and Opera. 196x196 pixels in size. -->
   <link rel="icon" href="img/favicon.png">
   <link href="less/page.css" rel="stylesheet">
@@ -18,7 +18,6 @@
 
   <!-- endnpm -->
   <!-- <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css"> -->
-  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,700" rel="stylesheet">
 </head>
 
 <body>
@@ -43,7 +42,7 @@
         </div>
         <div class="collapse navbar-collapse navbar-right" id="mobile-view">
           <ul class=" nav navbar-nav navbar-content">
-            <li class="active">
+        <li class="">
               <a href="index.php">Home</a>
             </li>
             <li class="">

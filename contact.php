@@ -7,7 +7,7 @@
         <div class="row">
             <div class="col-xs-12">
                 <div class="banner-wrap white text-center">
-                    <h1 class="upper bold">what we do</h1>
+                    <h1 class="upper bold">let's keep in touch</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, incidunt.</p>
                 </div>
             </div>
@@ -54,7 +54,8 @@
                                         </tr>
                                         <tr>
                                             <td>
-                                                <i class="icon-twitter-border"></i>
+                                                <i class="icon-twitter-border
+                                                "></i>
                                             </td>
                                             <td>
                                                 @zhariffafandi

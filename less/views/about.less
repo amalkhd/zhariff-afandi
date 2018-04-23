@@ -43,6 +43,9 @@
 }
 
 .media-wrap {
+  @media (min-width: 768px) {
+    max-height: 350px;
+  }
   .mt-40;
   a {
     .text-grey;
@@ -54,7 +57,7 @@
     tr {
       td {
         border: none;
-        &:first-child {
+        &.one {
           padding-left: 0;
         }
       }

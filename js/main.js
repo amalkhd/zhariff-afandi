@@ -66,4 +66,16 @@ $(document).ready(function() {
       $("#gallery .gal-item").height(imgHeight);
     });
   }
+
+  if ($(window).width() > 767) {
+    let imgHeight = $("#media .media-wrap img").height();
+    $("#media .media-wrap iframe").height(imgHeight);
+  }
+
+  let filename = window.location.href.substr(
+    window.location.href.lastIndexOf("/") + 1
+  );
+  $(`.navbar-content a[href*="${filename}"]`)
+    .parent("li")
+    .addClass("active");
 });

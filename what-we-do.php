@@ -7,8 +7,8 @@
         <div class="row">
             <div class="col-xs-12">
                 <div class="banner-wrap white text-center">
-                    <h1 class="upper bold">let's keep in touch</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, incidunt.</p>
+                    <h1 class="upper bold">what we do</h1>
+                    <p>HE SHARES… HE GUIDES… HE INSPIRES.</p>
                 </div>
             </div>
         </div>
@@ -18,22 +18,12 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-12 text-grey ls-1 lh">
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore necessitatibus placeat blanditiis neque
-                    accusantium! Quidem, vero tempore. Iure nemo, error amet laborum aliquid dignissimos quia consectetur
-                    nam quas totam nesciunt animi cupiditate commodi perferendis. Ad voluptates sunt commodi atque officia
-                    voluptate. Doloremque omnis velit optio sequi, nemo asperiores fuga iure ducimus iusto sint illum qui
-                    error non quam, ullam at laboriosam eum quaerat similique, harum praesentium! Eligendi, provident eius
-                    neque cum amet asperiores nihil, similique sit iste aut distinctio. Aliquid at eveniet numquam, placeat
-                    a, iure laborum doloremque ipsa, libero quam praesentium. Ab laudantium, iste quisquam quasi ratione
-                    tempora placeat?</p>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore necessitatibus placeat blanditiis neque
-                    accusantium! Quidem, vero tempore. Iure nemo, error amet laborum aliquid dignissimos quia consectetur
-                    nam quas totam nesciunt animi cupiditate commodi perferendis. Ad voluptates sunt commodi atque officia
-                    voluptate. Doloremque omnis velit optio sequi, nemo asperiores fuga iure ducimus iusto sint illum qui
-                    error non quam, ullam at laboriosam eum quaerat similique, harum praesentium! Eligendi, provident eius
-                    neque cum amet asperiores nihil, similique sit iste aut distinctio. Aliquid at eveniet numquam, placeat
-                    a, iure laborum doloremque ipsa, libero quam praesentium. Ab laudantium, iste quisquam quasi ratione
-                    tempora placeat?
+                <p>
+                    Zhariff believes he can change the world. He believes all of us can. We all have the ability to get out of what he calls SOS (State of Shittiness) and find our happiness and life solutions. We have the potential to be the best that we can be and discover our Ikigai or meaning in life. By having knowledge, attitudes and practices that can enrich our daily lives, we can grow to be our actualized self.
+                </p>
+                <p>
+
+DISCOVER: The modules developed in Zhariff’s programs is a culmination of his personal and career experiences, studies in developmental psychology, and extensive research and practice on the inner self and social behaviours.
                 </p>
             </div>
         </div>
@@ -46,10 +36,9 @@
                     <img src="img/what/what-1.png" alt="" class="img-responsive">
                     <div class="content ls-1">
                         <p class="bold">Speaking engagement</p>
-                        <p class="mb-20">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ducimus maxime pariatur nihil
-                            error harum cupiditate non illo tempore et?</p>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ducimus maxime pariatur nihil
-                            error harum cupiditate non illo tempore et?</p>
+                        <p class="mb-20">
+                            A 2 hours sharing sessions format to start your journey and to move ahead beyond limitations.
+                        </p>
                         <a href="">Read more</a>
                     </div>
                 </div>
@@ -58,11 +47,10 @@
                 <div class="what-wrap text-grey">
                     <img src="img/what/what-2.png" alt="" class="img-responsive">
                     <div class="content ls-1">
-                        <p class="bold">Speaking engagement</p>
-                        <p class="mb-20">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ducimus maxime pariatur nihil
-                            error harum cupiditate non illo tempore et?</p>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ducimus maxime pariatur nihil
-                            error harum cupiditate non illo tempore et?</p>
+                        <p class="bold">Corporate retreats</p>
+                        <p class="mb-20">
+                    A 4 Days 3 Nights retreat designed to give you the opportunity to redefine and clarify what success and happiness is to you, and give you the necessary tools and techniques to achieve the very best of you.     
+                    </p>
                         <a href="">Read more</a>
                     </div>
                 </div>
