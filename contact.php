@@ -78,9 +78,9 @@
                                     <div class="form-group">
                                         <input type="text" class="form-control" placeholder="Email">
                                     </div>
-                                    <div class="form-group">
+                                    <!-- <div class="form-group">
                                         <input type="text" class="form-control" placeholder="Phone">
-                                    </div>
+                                    </div> -->
                                     <div class="form-group">
                                         <textarea class="form-control" rows="4" placeholder="Message"></textarea>
                                     </div>
